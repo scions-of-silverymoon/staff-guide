@@ -4,6 +4,12 @@
 
 This repository contains the staff rule guide for the Scions of Silverymoon Discord D&D server. The guide is built using Jekyll and deployed to GitHub Pages.
 
+## 🚀 Initial Setup
+
+**First time setup:** See [SETUP.md](SETUP.md) for instructions on enabling GitHub Pages for this repository.
+
+Once GitHub Pages is enabled, the site will be automatically built and deployed when changes are pushed to the main branch.
+
 ## 📚 View the Guide
 
 The published guide is available at: https://scions-of-silverymoon.github.io/staff-guide/
