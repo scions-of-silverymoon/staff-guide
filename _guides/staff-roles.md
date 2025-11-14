@@ -8,17 +8,20 @@ order: 2
 
 This page gives a clear overview of staff roles, responsibilities, and where to find more detail. Use the links below to jump to a role page with examples and expectations.
 
-Shortcuts
+Quick reference
 
-- [Helpers](/_guides/helpers.md)
-- [Moderation & Admins](/_guides/moderation.md)
-- [DMs and Game Roles](/_guides/dms.md)
-- [Game Keeper](/_guides/game-keeper.md)
-- [Event Planners](/_guides/event-planners.md)
-- [Wish System (Wish DMs & Keepers)](/_guides/wish-system.md)
-- [NPC Staff](/_guides/npcs.md)
-- [Dragonspeaker / Tech](/_guides/dragonspeaker.md)
-- [Availability & Expectations](/_guides/availability.md)
+| Role | Link | Short description |
+|---|---|---|
+| Helpers | [Helpers](/_guides/helpers.md) | Front-line staff who welcome new players, answer common questions, and route issues to the right team. |
+| Moderation & Admins | [Moderation & Admins](/_guides/moderation.md) | Handle enforcement, escalations, server settings, and major decisions. |
+| DMs | [DMs and Game Roles](/_guides/dms.md) | Plan and run games, manage bounties/missions, and coordinate rewards. |
+| Game Keeper | [Game Keeper](/_guides/game-keeper.md) | Maintain game systems, review submitted content, and coordinate rewards with DMs. |
+| Event Planners | [Event Planners](/_guides/event-planners.md) | Design and run server-wide events; prepare materials and coordinate staff. |
+| Wish System | [Wish System (Wish DMs & Keepers)](/_guides/wish-system.md) | Manage Wish games and the wishlist queue; assign staff to wishes. |
+| NPC Staff | [NPC Staff](/_guides/npcs.md) | Provide in-character NPC interactions and support roleplay scenes. |
+| Dragonspeaker | [Dragonspeaker / Tech](/_guides/dragonspeaker.md) | Technical staff who maintain code, assist with fixes, and implement automation. |
+| Wyrmlings | [Dragonspeaker / Tech](/_guides/dragonspeaker.md#wyrmlings-apprentice-dragonspeakers) | Apprentice Dragonspeakers learning the technical side (mentored via Dragonspeaker team). |
+| Availability & Expectations | [Availability & Expectations](/_guides/availability.md) | Rules for availability, inactivity policy, and stepping down guidance. |
 
 Overview
 
@@ -27,17 +30,6 @@ Staff keep the community running. In general:
 - Lead by example and follow the rules.
 - Speak with intent and empathy; operate in good faith.
 - Address hateful or inappropriate content quickly and escalate as needed.
-
-Who does what (short summaries)
-
-- Helpers: the boots-on-the-ground staff. They welcome new players, answer questions, and route issues to the right staff.
-- Moderators (Mods) and Admins: handle enforcement, server settings, escalations, and major decisions.
-- DMs: plan and run games, handle bounties/missions, and work with Game Keepers for rewards.
-- Game Keeper: maintains game/reward systems and approves submitted game content.
-- Event Planners: plan and run server-wide events and coordinate staff for those events.
-- Wish System: Wish DMs run Wish games; Wish Keepers manage queue and assignments.
-- NPCs: perform NPC interactions and roleplay for players when requested.
-- Dragonspeaker: technical staff who maintain code, help fix issues, and implement automation.
 
 Support and escalation
 

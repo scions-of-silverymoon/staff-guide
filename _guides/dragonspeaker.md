@@ -17,3 +17,20 @@ Responsibilities
 Notes
 
 - Major code changes should be approved by a Mod before deployment.
+
+Wyrmlings (apprentice Dragonspeakers)
+
+Wyrmlings are members who want to learn and assist with the technical side but are not yet full Dragonspeakers. This is an apprenticeship-style role:
+
+- Learn by assisting Dragonspeakers with small tasks and fixes.
+- Work on supervised, low-risk tasks (bug fixes, small helper scripts, documentation updates).
+
+
+Pathway to Dragonspeaker
+
+- Wyrmlings who demonstrate reliability, understanding of the codebase, and good communication may be invited to take on more responsibility.
+- Major responsibility increases require Mod approval.
+
+Contact
+
+- If you are interested in becoming a Wyrmling or have questions about the Dragonspeaker role, contact a current Dragonspeaker or a Mod.

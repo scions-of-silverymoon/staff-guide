@@ -33,24 +33,8 @@ These short points are the baseline for how staff should act. For role-specific 
 
 ## Table of Contents
 
+
 - [Staff Roles](_guides/staff-roles.md)
-	- [Helpers](_guides/helpers.md) 
-        - The first line of interaction with players on many topics. They welcome new players, answer basic questions, and guide members to the correct channels or staff when needed.
-	- [Mods](_guides/moderation.md)
-        - Mods make the final call setting and enforcing server rules, signing off major changes and events, and appointing other staff.
-	- [DMs](_guides/dms.md)
-        - DMs plan and run games, handle bounties/missions, and work with Game Keepers for rewards.
-	- [Game Keeper](_guides/game-keeper.md)
-        - Game Keepers manage game rewards and coordinate with DMs for missions and bounties.
-	- [Event Planners](_guides/event-planners.md)
-        - Event Planners organize server-wide events and coordinate staff for those events.
-	- [Wish System](_guides/wish-system.md)
-        - Wish DMs run Wish games; Wish Keepers manage queue and assignments.
-	- [NPC Staff](_guides/npcs.md)
-        - NPC Staff perform NPC interactions and roleplay for players when requested.
-	- [Dragonspeaker](_guides/dragonspeaker.md)
-        - Technical staff who maintain code, help fix issues, and implement automation.
-	- [Availability & Expectations](_guides/availability.md)
 
 
 ---
