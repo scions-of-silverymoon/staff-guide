@@ -16,6 +16,11 @@ exclude:
   - CONTRIBUTING.md
   - vendor/
   - .bundle/
+  - Gemfile
+  - Gemfile.lock
+
+# Repository settings (for GitHub Pages)
+repository: scions-of-silverymoon/staff-guide
 
 # Collections
 collections:
