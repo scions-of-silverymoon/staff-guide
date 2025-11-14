@@ -1,96 +1,86 @@
-# Staff Guide
+# Staff Guide — creating and managing pages
 
-[![Deploy GitHub Pages](https://github.com/scions-of-silverymoon/staff-guide/actions/workflows/pages.yml/badge.svg)](https://github.com/scions-of-silverymoon/staff-guide/actions/workflows/pages.yml)
+This repository contains the staff documentation for the Scions of Silverymoon Discord D&D server. This README explains how to add, edit, and manage the documentation pages in `_guides/` so contributors can create content that integrates cleanly with the site.
 
-This repository contains the staff rule guide for the Scions of Silverymoon Discord D&D server. The guide is built using Jekyll and deployed to GitHub Pages.
+## Who this is for
 
-## 🚀 Initial Setup
+# Staff Guide — add and edit pages
 
-**First time setup:** See [SETUP.md](SETUP.md) for instructions on enabling GitHub Pages for this repository.
+This is a simple how-to for adding and editing pages in the `_guides/` folder. It's written for people who want to contribute content without getting into the technical details of how the site is built.
 
-Once GitHub Pages is enabled, the site will be automatically built and deployed when changes are pushed to the main branch.
+Who this is for
 
-## 📚 View the Guide
+- Anyone adding or updating a page in `_guides/`.
 
-The published guide is available at: https://scions-of-silverymoon.github.io/staff-guide/
+Where to put your page
 
-## 🏗️ Infrastructure
+- Create a single Markdown file for your page inside the `_guides/` folder. Example: `_guides/my-new-page.md`.
 
-This repository is set up with:
+Top-of-file metadata
 
-- **Jekyll** for static site generation
-- **GitHub Pages** for hosting
-- **GitHub Actions** for automatic deployment
-- **Jekyll Theme Cayman** for styling
-
-## 📝 Adding Content
-
-Content is stored in the `_guides/` directory. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on adding and editing content.
-
-### Quick Start
-
-1. Create a new `.md` file in the `_guides/` directory
-2. Add front matter at the top:
-   ```yaml
-   ---
-   title: Your Page Title
-   description: Brief description
-   order: 1
-   ---
-   ```
-3. Write your content in Markdown below the front matter
-4. Commit and push your changes
-5. The site will automatically rebuild and deploy
-
-## 🧪 Testing Locally
-
-To test the site locally before publishing:
-
-```bash
-# Install Ruby and Bundler (if not already installed)
-# See https://jekyllrb.com/docs/installation/
-
-# Install dependencies
-bundle install
-
-# Serve the site locally
-bundle exec jekyll serve
-
-# View at http://localhost:4000/staff-guide/
-```
-
-## 🔧 Configuration
-
-The site configuration is in `_config.yml`. Key settings include:
-
-- `title`: Site title
-- `description`: Site description
-- `baseurl`: Repository name (for GitHub Pages)
-- `theme`: Jekyll theme
-
-## 📁 Repository Structure
+At the very top of your page put a small header block exactly like this (three dashes, the three lines, then three dashes). Put it as the first thing in the file:
 
 ```
-staff-guide/
-├── _config.yml           # Jekyll configuration
-├── _guides/              # Guide content (Markdown files)
-├── index.md              # Homepage
-├── .github/
-│   └── workflows/
-│       └── pages.yml     # GitHub Actions workflow
-├── CONTRIBUTING.md       # Contribution guidelines
-├── LICENSE               # MIT License
-└── README.md             # This file
+---
+title: My Page Title
+description: Short one-line summary
+order: 10
+---
 ```
 
-## 🤝 Contributing
+What those three lines do (plain language)
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our content guidelines and the process for submitting changes.
+- title: The page name people will see.
+- description: A short one-line summary shown in lists.
+- order: A number that decides where this page shows up in a list (lower numbers appear first). Use gaps like 10, 20 so others can insert pages later.
 
-## 📜 License
+Filename rules
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Use all lowercase and hyphens: `my-new-page.md`.
+- No spaces or special characters.
+- Keep the filename and the title similar so it's easy to find.
 
-## 🎲 About Scions of Silverymoon
+How to format your page
 
-This guide supports the staff of our Discord D&D server community.
+- Headings: use `#` for main title, `##` for section headings, `###` for subsections.
+- Paragraphs: leave a blank line between paragraphs.
+- Lists: use `-` or `*` for bullet lists, or `1.` `2.` for numbered lists.
+- Code or commands: put them in a fenced code block using three backticks:
+
+```
+example command or code
+```
+
+- Emphasis: `*italic*` or `**bold**` as usual in Markdown.
+
+Adding images
+
+- Put images into `assets/images/` (or an `images/` folder) and reference them using a path. Example:
+
+```
+![Alt text](/staff-guide/assets/images/notice.png)
+```
+
+How to link to another guide page
+
+- If the other page file is named `other-page.md`, link to it like this:
+
+```
+[Other page](other-page.md)
+```
+
+That keeps links simple: use the other page's filename when you write links.
+
+Quick tips for edits and PRs
+
+- One change per pull request if possible (add a page, or edit a page, or add images).
+- In your PR description say where the page should appear and any ordering needs.
+- Include any images in the same PR.
+
+Troubleshooting (plain language)
+
+- Page doesn't show up: check the three-line header is the very first thing in the file and the number after `order:` is a number (no letters).
+- Link broken: make sure you used the correct filename in the link and that the target file exists.
+
+Small improvements we can add later
+
