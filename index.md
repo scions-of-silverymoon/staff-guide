@@ -19,7 +19,7 @@ This guide provides comprehensive rules and guidelines for staff members managin
 
 <!-- Fuse.js CDN and our search logic -->
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-<script src="/assets/search.js"></script>
+<script src="assets/search.js"></script>
 
 ## Table of Contents
 

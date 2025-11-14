@@ -1,7 +1,32 @@
 document.addEventListener('DOMContentLoaded', async () => {
   try {
-    const resp = await fetch('/assets/search.json');
-    if (!resp.ok) return;
+    // Resolve a sensible path for assets/search.json based on where this script
+    // was loaded from. This allows the site to be hosted under a base path
+    // (e.g. /staff-guide) without hardcoding that value.
+    let jsonUrl = 'assets/search.json';
+    try {
+      const scriptEl = document.querySelector('script[src$="search.js"]');
+      if (scriptEl && scriptEl.src) {
+        const scriptUrl = new URL(scriptEl.src, window.location.href);
+        const basePath = scriptUrl.pathname.replace(/\/assets\/search\.js$/, '');
+        jsonUrl = (basePath ? basePath + '/assets/search.json' : 'assets/search.json');
+      }
+    } catch (e) {
+      // ignore and fall back to relative path
+    }
+
+    // Try the resolved URL first, then fall back to a few common locations.
+    const tryUrls = [jsonUrl, '/assets/search.json', 'assets/search.json'];
+    let resp = null;
+    for (const u of tryUrls) {
+      try {
+        resp = await fetch(u);
+        if (resp && resp.ok) break;
+      } catch (e) {
+        resp = null;
+      }
+    }
+    if (!resp || !resp.ok) return;
     const pages = await resp.json();
 
     // Wait for Fuse to be available (loaded via CDN in the page)
