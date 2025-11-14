@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Home",
+    "description": "Staff Guide home page",
+    "url": "index.md"
+  },
+  {
+    "title": "Example Guide Page",
+    "description": "This is an example guide page showing the structure",
+    "url": "_guides/example.md"
+  },
+  {
+    "title": "Staff Roles",
+    "description": "Overview of staff roles, responsibilities, and contacts",
+    "url": "_guides/staff-roles.md"
+  }
+]

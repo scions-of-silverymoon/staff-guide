@@ -22,6 +22,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate search index
+        run: |
+          python3 scripts/generate_search_index.py
+        working-directory: ./
+      
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
