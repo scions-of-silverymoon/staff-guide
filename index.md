@@ -24,6 +24,15 @@ This guide provides comprehensive rules and guidelines for staff members managin
 ## Table of Contents
 
 - [Staff Roles](_guides/staff-roles.md)
+	- [Helpers](_guides/helpers.md)
+	- [Moderation & Admins](_guides/moderation.md)
+	- [DMs](_guides/dms.md)
+	- [Game Keeper](_guides/game-keeper.md)
+	- [Event Planners](_guides/event-planners.md)
+	- [Wish System](_guides/wish-system.md)
+	- [NPC Staff](_guides/npcs.md)
+	- [Dragonspeaker](_guides/dragonspeaker.md)
+	- [Availability & Expectations](_guides/availability.md)
 
 ---
 

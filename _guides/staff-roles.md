@@ -6,30 +6,44 @@ order: 2
 
 # Staff Roles
 
-This page describes the staff roles and what each role does. Use this to understand who to contact for specific issues.
+This page gives a clear overview of staff roles, responsibilities, and where to find more detail. Use the links below to jump to a role page with examples and expectations.
 
-## Moderator
+Shortcuts
 
-- Watches chat channels and enforces server rules.
-- Handles basic moderation tasks: warnings, temporary mutes, and directing members to rules.
-- Escalate any repeated or serious problems to an admin.
+- [Helpers](/_guides/helpers.md)
+- [Moderation & Admins](/_guides/moderation.md)
+- [DMs and Game Roles](/_guides/dms.md)
+- [Game Keeper](/_guides/game-keeper.md)
+- [Event Planners](/_guides/event-planners.md)
+- [Wish System (Wish DMs & Keepers)](/_guides/wish-system.md)
+- [NPC Staff](/_guides/npcs.md)
+- [Dragonspeaker / Tech](/_guides/dragonspeaker.md)
+- [Availability & Expectations](/_guides/availability.md)
 
-## Admin
+Overview
 
-- Manages server settings, major rule decisions, and role assignments.
-- Reviews escalated moderation issues and decides on permanent actions.
+Staff keep the community running. In general:
 
-## Event Lead
+- Lead by example and follow the rules.
+- Speak with intent and empathy; operate in good faith.
+- Address hateful or inappropriate content quickly and escalate as needed.
 
-- Plans and runs events for the community.
-- Coordinates with staff and announces events.
+Who does what (short summaries)
 
-## Support Contacts
+- Helpers: the boots-on-the-ground staff. They welcome new players, answer questions, and route issues to the right staff.
+- Moderators (Mods) and Admins: handle enforcement, server settings, escalations, and major decisions.
+- DMs: plan and run games, handle bounties/missions, and work with Game Keepers for rewards.
+- Game Keeper: maintains game/reward systems and approves submitted game content.
+- Event Planners: plan and run server-wide events and coordinate staff for those events.
+- Wish System: Wish DMs run Wish games; Wish Keepers manage queue and assignments.
+- NPCs: perform NPC interactions and roleplay for players when requested.
+- Dragonspeaker: technical staff who maintain code, help fix issues, and implement automation.
 
-- If you're unsure who to contact, ask in the staff channel and tag `@admin`.
+Support and escalation
 
-## Notes
+- If you are unsure who to contact, ask in the staff channel and ping `@Mods` or `@admin` depending on severity.
+- Escalate repeated or serious issues to Admins/Mods.
 
-- This is a simple, living document. If a role needs more detail, add a short section describing steps and examples.
+This is a living document. If a role page needs more detail, edit the role page or add examples on that page.
 
 
