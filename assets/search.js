@@ -36,8 +36,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     const fuse = new Fuse(pages, {
-      keys: ['title', 'description'],
-      threshold: 0.4,
+      keys: ['title', 'description', 'text'],
+      threshold: 0.35,
+      includeScore: true,
     });
 
     const input = document.getElementById('site-search');
@@ -49,12 +50,18 @@ document.addEventListener('DOMContentLoaded', async () => {
       results.innerHTML = '';
       if (!q) return;
       const matches = fuse.search(q, {limit: 10});
-      if (!matches.length) {
+      let items = matches.map(m => m.item);
+
+      // If Fuse found nothing, do a simple substring fallback over the raw fields.
+      if (!items.length) {
+        const ql = q.toLowerCase();
+        items = pages.filter(p => ((p.title || '') + ' ' + (p.description || '') + ' ' + (p.text || '')).toLowerCase().includes(ql)).slice(0, 10);
+      }
+      if (!items.length) {
         results.textContent = 'No results';
         return;
       }
-      matches.forEach(m => {
-        const p = m.item;
+      items.forEach(p => {
         const a = document.createElement('a');
         a.href = p.url;
         a.textContent = p.title;
