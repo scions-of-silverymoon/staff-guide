@@ -27,8 +27,7 @@ Have these basics ready before you post in [📆game-reserve](https://discord.co
 Helpful notes:
 -- Wish DMs: consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with @Wish Keepers and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546).
 -- Get feedback from other DMs and @Game Keeper in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
--- Encounter tools are in [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953). The Game Rewards Sheet V2 helps with non-combat DCs/definitions:
-  - [Game Reward Calculations](https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/edit?usp=sharing)
+-- For calculators, reward sheets, recommended map hosts, and planning tools, see the Game Resources guide: [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
 
 ### 2) Submit your game (approval)
 
