@@ -35,6 +35,7 @@ These short points are the baseline for how staff should act. For role-specific 
 
 
 - [Staff Roles](_guides/staff-roles.md)
+- [DM Info](_guides/dm-info.md)
 
 
 ---

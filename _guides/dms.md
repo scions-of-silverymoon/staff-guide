@@ -22,3 +22,5 @@ Tips
 - Communicate with `@Tracker Helpers` and Game Keepers as needed.
 
 See also: [Game Keeper](/_guides/game-keeper.md)
+ 
+Additional resources: [DM Info — Planning, Posting, Running, Rewards](/_guides/dm-info.md)
