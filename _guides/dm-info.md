@@ -8,31 +8,31 @@ description: How to plan, post, run, and reward games in Silverymoon.
 A practical guide for Dungeon Masters: plan your game, get it approved, post the sesh, pick players, run the table, and award rewards. This page consolidates our current process and links to the tools you need.
 
 - Quick links:
-  - Game Reserve: post your submissions in 📆game-reserve and ping @Game Keeper
-  - Encounter builders: 🏁encounters-n-maps
-  - Game discussion: 🏹game-discussion
-  - Rewards discussion/approval: 💎rewards-discussion
-  - Reward log: 📈game-reward-log
+  - Game Reserve: post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping @Game Keeper
+  - Encounter builders: [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
+  - Game discussion: [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
+  - Rewards discussion/approval: [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)
+  - Reward log: [📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)
 
 ## 8 simple steps
 
 ### 1) Establish details (planning)
 
-Have these basics ready before you post in 📆game-reserve:
+Have these basics ready before you post in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476):
 - A problem to solve and why PCs hear about it
 - At least one NPC or method to brief/payout the party
 - Encounters (combat, puzzles, traps, or social) sized for the expected party
 - Desired runtime and accepted PC levels
 
 Helpful notes:
-- Wish DMs: consider fulfilling a near-queue wish from 📬wish-vault; coordinate with @Wish Keepers and watch 🧨check-the-queue.
-- Get feedback from other DMs and @Game Keeper in 🏹game-discussion.
-- Encounter tools are in 🏁encounters-n-maps. The Game Rewards Sheet V2 helps with non-combat DCs/definitions:
+-- Wish DMs: consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with @Wish Keepers and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546).
+-- Get feedback from other DMs and @Game Keeper in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
+-- Encounter tools are in [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953). The Game Rewards Sheet V2 helps with non-combat DCs/definitions:
   - [Game Reward Calculations](https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/edit?usp=sharing)
 
 ### 2) Submit your game (approval)
 
-Post your details to 📆game-reserve and ping @Game Keeper for approval.
+Post your details to [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping @Game Keeper for approval.
 - Please submit no more than 2 weeks in advance.
 - When approved, @Tracker Helper will add it to the tracker (your Game Keeper will ping them).
 
@@ -41,8 +41,8 @@ Post your details to 📆game-reserve and ping @Game Keeper for approval.
 Open: [The Sesh Dashboard](https://sesh.fyi/dashboard/866376531995918346) and fill:
 - Event Title: the name of your game
 - Start Time: in your timezone; Sesh converts for players
-- Channel: 🎉events, 🎪live-games, or 🤺play-by-post-games
-- Duration: estimated for live games only (PbP only games shouldn’t use this)
+-- Channel: [🎉events](https://discord.com/channels/866376531995918346/962771936528728134), [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164), or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701)
+-- Duration: estimated for live games only (PbP only games shouldn’t use this)
 - Mentions: use @Member on the initial post (do NOT @Member on game start); for Wish quests with pre-selected parties, do not ping @Member
 - Description: include the format below
 - Image: optional; provide a hosted image URL
@@ -66,7 +66,7 @@ Sesh description template (copy/paste):
 ### 4) Game prep (recommended)
 
 Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
-Test maps and enemies in 🤺combat-testing (ask staff to help test if needed)
+ Test maps and enemies in [🤺combat-testing](https://discord.com/channels/866376531995918346/866473073828691988) (ask staff to help test if needed)
 Pre-write non-branching NPC narration and scene descriptions, especially for live games
 Ask @NPC staff for help if you want NPC involvement
 
@@ -76,19 +76,19 @@ On or before your selection date, determine who’s eligible:
 - Have they roleplayed or been active recently? High risk to pick players with zero activity
 - Use the Character Tracker; prefer players who haven’t had recent games
 - Consider party comp for your encounters
-- Consider 🎎little-wishes fulfillment opportunities
+-- Consider [🎎little-wishes](https://discord.com/channels/866376531995918346/1088099833472106547) fulfillment opportunities
 
-When ready, ping @Tracker Helper in 🏹game-discussion with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
+When ready, ping @Tracker Helper in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555) with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
 
 ### 6) Announce selection & table roles
 
-In 📞quest-ooc:
+In [📞quest-ooc](https://discord.com/channels/866376531995918346/1022191450240327742):
 - Tag the chosen players and your game’s OOC (e.g., 🐡bjursta-ooc)
 - Provide check-in requirements (vsheets, spellbooks, tokens) and a deadline before start
 - Note if you’re opening early for RP before start time
 - Name 2 backup players in case of no-shows/cancellations
 
-Follow 🏹quest for no-shows and replacements. If players drop mid-game, see the Rewards section below.
+Follow [🏹quest](https://discord.com/channels/866376531995918346/866515129163055126) for no-shows and replacements. If players drop mid-game, see the Rewards section below.
 
 ### 7) Rewards
 
@@ -97,15 +97,15 @@ There are three reward types: XP, gold, and items. Use these Silverymoon resourc
 - [Magic Item List](https://docs.google.com/spreadsheets/d/1DG6X1goC2eZi6MtI1F_i4Id5myH6bMa2CCCvOzXTpn0/edit#gid=1800875520)
 
 Basics:
-- XP is granted for Combat and Non‑Combat encounters by level; for Combat, use an encounter calculator (see 🏁encounters-n-maps) to determine fight difficulty
+- XP is granted for Combat and Non‑Combat encounters by level; for Combat, use an encounter calculator (see [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)) to determine fight difficulty
 - Use the Rewards Calculator (copy the sheet) to input encounters and monsters; it calculates XP/gold automatically; items reduce gold to balance
-- Reward tiers, by party level at mission completion:
+-- Reward tiers, by party level at mission completion:
   - Tier 1 (Lvl 4): up to Common, Minor Uncommon
   - Tier 2 (Lvl 5‑6): up to Major Uncommon, Minor Rare
   - Tier 3 (Lvl 7‑10): up to Major Rare, Minor Very Rare
   - Tier 4 (Lvl 11‑14): up to Major Very Rare, Minor Legendary
   - Tier 5 (Lvl 15+): any rarity
-- Ask questions in 💎rewards-discussion and tag @Game Keeper for approval; @Tracker Helper will update the tracker after approval
+-- Ask questions in [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904) and tag @Game Keeper for approval; @Tracker Helper will update the tracker after approval
 
 Early Leavers:
 - If a player must leave early but contributed significantly, use the “Early Leavers” checkbox in the sheet and explain in Reason

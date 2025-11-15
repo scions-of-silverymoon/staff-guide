@@ -16,20 +16,20 @@ Staff can be rewarded for all the amazing things they do. Staff rewards are trac
   - 4 staff points weekly
 
 - Helpers
-  - 2 points per thorough sheet checked using ✅sheet-checking
+  - 2 points per thorough sheet checked using [✅sheet-checking](https://discord.com/channels/866376531995918346/966900730399182858)
   - Must also log the check in the Silverymoon Player Tracker
   - 4 points weekly for monitoring player activity, fielding questions, assisting players, and communicating with mods
-  - See also: 📍roles-and-guidelines for role requirements
+  - See also: [📍roles-and-guidelines](https://discord.com/channels/866376531995918346/866551558211895337) for role requirements
 
 - Tracker Helpers
-  - 2 points weekly for watching 🧾transaction-log, approving purchases, and entering game info, rewards, and transactions into the Silverymoon Tracker
+  - 2 points weekly for watching [🧾transaction-log](https://discord.com/channels/866376531995918346/881217696023326720), approving purchases, and entering game info, rewards, and transactions into the Silverymoon Tracker
 
 - Tracker Keeper
   - 2 points weekly for tracker upkeep and management
 
 - NPC & Event NPC
   - 1 point per hour spent in a scene (minimum 2 points)
-  - May be auto-tracked via timer — see 🕺npc-guide for setup
+  - May be auto-tracked via timer — see [🕺npc-guide](https://discord.com/channels/866376531995918346/983575905496616970) for setup
 
 - DM & Event DM
   - Receives XP and gold appropriate to the game type (bounty or mission); amounts approved by a Game Keeper or Mod before distribution
