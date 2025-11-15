@@ -31,6 +31,10 @@ These short points are the baseline for how staff should act. For role-specific 
 - [DM Info](_guides/dm-info.md)
 - [Event: Dream Defence](_guides/events-dream-defence.md)
 - [Staff Rewards](_guides/staff-rewards.md)
+ - [Staff Roles]({{ '/guides/staff-roles/' | relative_url }})
+ - [DM Info]({{ '/guides/dm-info/' | relative_url }})
+ - [Event: Dream Defence]({{ '/guides/events-dream-defence/' | relative_url }})
+ - [Staff Rewards]({{ '/guides/staff-rewards/' | relative_url }})
 
 
 ---

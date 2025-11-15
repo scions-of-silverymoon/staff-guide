@@ -37,4 +37,4 @@ A quick-start for running Dream Defence games.
 
 ---
 
-See also: [DM Info](/_guides/dm-info.md) for general DM process, posting, and rewards guidance.
+See also: [DM Info]({{ '/guides/dm-info/' | relative_url }}) for general DM process, posting, and rewards guidance.

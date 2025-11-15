@@ -12,16 +12,17 @@ Quick reference
 
 | Role | Link | Short description |
 |---|---|---|
-| Helpers | [Helpers](/_guides/helpers.md) | Front-line staff who welcome new players, answer common questions, and route issues to the right team. |
-| Moderation & Admins | [Moderation & Admins](/_guides/moderation.md) | Handle enforcement, escalations, server settings, and major decisions. |
-| DMs | [DMs and Game Roles](/_guides/dms.md) | Plan and run games, manage bounties/missions, and coordinate rewards. |
-| Game Keeper | [Game Keeper](/_guides/game-keeper.md) | Maintain game systems, review submitted content, and coordinate rewards with DMs. |
-| Event Planners | [Event Planners](/_guides/event-planners.md) | Design and run server-wide events; prepare materials and coordinate staff. |
-| Wish System | [Wish System (Wish DMs & Keepers)](/_guides/wish-system.md) | Manage Wish games and the wishlist queue; assign staff to wishes. |
-| NPC Staff | [NPC Staff](/_guides/npcs.md) | Provide in-character NPC interactions and support roleplay scenes. |
-| Dragonspeaker | [Dragonspeaker / Tech](/_guides/dragonspeaker.md) | Technical staff who maintain code, assist with fixes, and implement automation. |
-| Wyrmlings | [Dragonspeaker / Tech](/_guides/dragonspeaker.md#wyrmlings-apprentice-dragonspeakers) | Apprentice Dragonspeakers learning the technical side (mentored via Dragonspeaker team). |
-| Availability & Expectations | [Availability & Expectations](/_guides/availability.md) | Rules for availability, inactivity policy, and stepping down guidance. |
+| Helpers | [Helpers]({{ '/guides/helpers/' | relative_url }}) | Front-line staff who welcome new players, answer common questions, and route issues to the right team. |
+| Moderation & Admins | [Moderation & Admins]({{ '/guides/moderation/' | relative_url }}) | Handle enforcement, escalations, server settings, and major decisions. |
+| DMs | [DMs and Game Roles]({{ '/guides/dms/' | relative_url }}) | Plan and run games, manage bounties/missions, and coordinate rewards. |
+| Game Keeper | [Game Keeper]({{ '/guides/game-keeper/' | relative_url }}) | Maintain game systems, review submitted content, and coordinate rewards with DMs. |
+| Event Planners | [Event Planners]({{ '/guides/event-planners/' | relative_url }}) | Design and run server-wide events; prepare materials and coordinate staff. |
+| Wish System | [Wish System (Wish DMs & Keepers)]({{ '/guides/wish-system/' | relative_url }}) | Manage Wish games and the wishlist queue; assign staff to wishes. |
+| NPC Staff | [NPC Staff]({{ '/guides/npcs/' | relative_url }}) | Provide in-character NPC interactions and support roleplay scenes. |
+| Dragonspeaker | [Dragonspeaker / Tech]({{ '/guides/dragonspeaker/' | relative_url }}) | Technical staff who maintain code, assist with fixes, and implement automation. |
+| Wyrmlings | [Dragonspeaker / Tech]({{ '/guides/dragonspeaker/' | relative_url }}#wyrmlings-apprentice-dragonspeakers) | Apprentice Dragonspeakers learning the technical side (mentored via Dragonspeaker team). |
+| Availability & Expectations | [Availability & Expectations]({{ '/guides/availability/' | relative_url }}) | Rules for availability, inactivity policy, and stepping down guidance. |
+
 
 Overview
 

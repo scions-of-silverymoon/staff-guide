@@ -21,6 +21,6 @@ Tips
 - Keep clear notes on player agreements, rewards, and any special rules.
 - Communicate with `@Tracker Helpers` and Game Keepers as needed.
 
-See also: [Game Keeper](/_guides/game-keeper.md)
+See also: [Game Keeper]({{ '/guides/game-keeper/' | relative_url }})
  
-Additional resources: [DM Info — Planning, Posting, Running, Rewards](/_guides/dm-info.md) · [Event: Dream Defence](/_guides/events-dream-defence.md)
+Additional resources: [DM Info — Planning, Posting, Running, Rewards]({{ '/guides/dm-info/' | relative_url }}) · [Event: Dream Defence]({{ '/guides/events-dream-defence/' | relative_url }})
