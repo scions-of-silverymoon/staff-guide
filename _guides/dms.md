@@ -23,4 +23,4 @@ Tips
 
 See also: [Game Keeper](/_guides/game-keeper.md)
  
-Additional resources: [DM Info — Planning, Posting, Running, Rewards](/_guides/dm-info.md)
+Additional resources: [DM Info — Planning, Posting, Running, Rewards](/_guides/dm-info.md) · [Event: Dream Defence](/_guides/events-dream-defence.md)

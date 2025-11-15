@@ -127,38 +127,6 @@ DM Rewards:
 
 ---
 
-## Special: Dream Defence games
-
-Prep (a few days to a week in advance):
-- Tag @Game Keeper in 📆game-reserve with planned date(s), Live or PbP (PbP has a hard cutoff after 2 weeks), tiers of play, and buddy info
-- After approval, post your sesh(es):
-  - Title: “Sleeping Sickness Dream Defence”
-  - Channel: 🎪live-games or 🤺play-by-post-games
-  - Other fields per the general instructions above
-  - Note the hard PbP cutoff in the description; any level players can sign up, DM picks from signups
-
-Setup and running:
-- If a player is in another PbP, have them run `!savepoint` in that PbP’s dice channel and inform that DM
-- A city watch member stands by enchanted mirrors used to enter the dream world
-- Use Captain Aisling Underwood as your NPC (or substitute/minimize NPCs as desired)
-- If a player dies, they’re ejected back through the mirror without lasting harm
-- Consumables and features work normally in the dream world
-
-Quick encounter building:
-- Pick 3–5 players grouped reasonably and choose a tier that suits
-- Run `!encounter <tier>` (e.g., `!encounter 3`) in 🤖dm-bot-spam for monsters/tokens/stat blocks/maps
-- You may adjust, but use Monster Manual monsters only; ask in 🏹game-discussion for reviews
-- Ping @Tracker Helper with your player selection
-
-Rewards (Dream Defence):
-- Separate sheet: https://docs.google.com/spreadsheets/d/1JubFamIuVg73kIUyeA9Fc9LzsLXI-T6prieBJcB0aE8/edit?usp=sharing (make a copy)
-- XP is awarded for monsters killed by the party only; if a player dies during the encounter, they get 1/2 XP
-- Gold is per encounter (not per monster); full gold even if you die
-- No items—just gold and XP
-- Get approval in 💎rewards-discussion (link/screenshot), then log in 📈game-reward-log
-
----
-
 ## See also
 - [DMs (role page)](/_guides/dms.md)
 - [Game Keeper](/_guides/game-keeper.md)

@@ -22,20 +22,15 @@ This guide provides comprehensive rules and guidelines for staff members managin
 
 These short points are the baseline for how staff should act. For role-specific expectations, see the Staff Roles section below.
 
-## Search
-
-<input id="site-search" placeholder="Search pages..." style="width:100%;padding:6px;" />
-<div id="search-results" style="margin-top:8px"></div>
-
-<!-- Fuse.js CDN and our search logic -->
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-<script src="assets/search.js"></script>
+<!-- Search moved to global layout header -->
 
 ## Table of Contents
 
 
 - [Staff Roles](_guides/staff-roles.md)
 - [DM Info](_guides/dm-info.md)
+- [Event: Dream Defence](_guides/events-dream-defence.md)
+- [Staff Rewards](_guides/staff-rewards.md)
 
 
 ---
