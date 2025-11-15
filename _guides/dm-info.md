@@ -28,7 +28,7 @@ Helpful notes:
 - Wish DMs: consider fulfilling a near-queue wish from 📬wish-vault; coordinate with @Wish Keepers and watch 🧨check-the-queue.
 - Get feedback from other DMs and @Game Keeper in 🏹game-discussion.
 - Encounter tools are in 🏁encounters-n-maps. The Game Rewards Sheet V2 helps with non-combat DCs/definitions:
-  - Game Rewards: Now More Rewarding Than Ever (V2): https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/edit?usp=sharing
+  - [Game Reward Calculations](https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/edit?usp=sharing)
 
 ### 2) Submit your game (approval)
 
@@ -38,7 +38,7 @@ Post your details to 📆game-reserve and ping @Game Keeper for approval.
 
 ### 3) Post your sesh (Sesh dashboard)
 
-Open: https://sesh.fyi/dashboard/866376531995918346 and fill:
+Open: [The Sesh Dashboard](https://sesh.fyi/dashboard/866376531995918346) and fill:
 - Event Title: the name of your game
 - Start Time: in your timezone; Sesh converts for players
 - Channel: 🎉events, 🎪live-games, or 🤺play-by-post-games
@@ -65,7 +65,7 @@ Sesh description template (copy/paste):
 
 ### 4) Game prep (recommended)
 
-- Set up maps and tokens ahead of time: Avrae maps (http://docs.otfbm.com/#/), Owlbear (https://owlbear.rodeo/how-to), or your VTT of choice
+- Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
 - Test maps and enemies in 🤺combat-testing (ask staff to help test if needed)
 - Pre-write non-branching NPC narration and scene descriptions, especially for live games
 - Ask @NPC staff for help if you want NPC involvement
@@ -93,8 +93,8 @@ Follow 🏹quest for no-shows and replacements. If players drop mid-game, see th
 ### 7) Rewards
 
 There are three reward types: XP, gold, and items. Use these Silverymoon resources:
-- Game Rewards v2 (main): https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?usp=sharing
-- Magic Item List: https://docs.google.com/spreadsheets/d/1DG6X1goC2eZi6MtI1F_i4Id5myH6bMa2CCCvOzXTpn0/edit#gid=1800875520
+- [Game Rewards Calculator](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?usp=sharing)
+- [Magic Item List](https://docs.google.com/spreadsheets/d/1DG6X1goC2eZi6MtI1F_i4Id5myH6bMa2CCCvOzXTpn0/edit#gid=1800875520)
 
 Basics:
 - XP is granted for Combat and Non‑Combat encounters by level; for Combat, use an encounter calculator (see 🏁encounters-n-maps) to determine fight difficulty
