@@ -4,6 +4,11 @@
 .page-header {
   padding-top: 12px !important;
   padding-bottom: 12px !important;
+  background-image: linear-gradient(rgba(4, 4, 4, 0.7), rgba(4, 4, 4, 0.4)), url('/assets/images/silverymoon_header.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #f3f3f3;
 }
 .page-header .project-name {
   font-size: 1.4rem !important;

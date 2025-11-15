@@ -29,7 +29,7 @@ A quick-start for running Dream Defence games.
 - Ping @Tracker Helper with your player selection
 
 ## Rewards (Dream Defence)
-- Use the dedicated sheet: https://docs.google.com/spreadsheets/d/1JubFamIuVg73kIUyeA9Fc9LzsLXI-T6prieBJcB0aE8/edit?usp=sharing (make a copy)
+- [Use the dedicated sheet](https://docs.google.com/spreadsheets/d/1JubFamIuVg73kIUyeA9Fc9LzsLXI-T6prieBJcB0aE8/edit?usp=sharing) (make a copy)
 - XP is awarded for monsters killed by the party only; if a player dies during the encounter, they receive 1/2 XP
 - Gold is per encounter (not per monster); full gold even if you die
 - No item rewards for this event — just gold and XP

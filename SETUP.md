@@ -5,7 +5,7 @@ This document explains how to enable GitHub Pages for this repository.
 ## Steps to Enable GitHub Pages
 
 1. **Navigate to Repository Settings:**
-   - Go to https://github.com/scions-of-silverymoon/staff-guide
+   - Go to [https://github.com/scions-of-silverymoon/staff-guide](https://github.com/scions-of-silverymoon/staff-guide)
    - Click on "Settings" tab
 
 2. **Configure GitHub Pages:**
@@ -22,7 +22,7 @@ This document explains how to enable GitHub Pages for this repository.
 
 5. **Access Your Site:**
    - After the first successful deployment
-   - The site will be available at: https://scions-of-silverymoon.github.io/staff-guide/
+   - The site will be available at: [https://scions-of-silverymoon.github.io/staff-guide/](https://scions-of-silverymoon.github.io/staff-guide/)
 
 ## Workflow Details
 
