@@ -16,8 +16,7 @@ A practical guide for Dungeon Masters: plan your game, get it approved, post the
 
 ## 8 simple steps
 
-<details class="collapsible" open>
-<summary>1) Establish details (planning)</summary>
+### 1) Establish details (planning)
 
 Have these basics ready before you post in 📆game-reserve:
 - A problem to solve and why PCs hear about it
@@ -30,18 +29,14 @@ Helpful notes:
 - Get feedback from other DMs and @Game Keeper in 🏹game-discussion.
 - Encounter tools are in 🏁encounters-n-maps. The Game Rewards Sheet V2 helps with non-combat DCs/definitions:
   - [Game Reward Calculations](https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/edit?usp=sharing)
-</details>
 
-<details class="collapsible" open>
-<summary>2) Submit your game (approval)</summary>
+### 2) Submit your game (approval)
 
 Post your details to 📆game-reserve and ping @Game Keeper for approval.
 - Please submit no more than 2 weeks in advance.
 - When approved, @Tracker Helper will add it to the tracker (your Game Keeper will ping them).
-</details>
 
-<details class="collapsible" open>
-<summary>3) Post your sesh (Sesh dashboard)</summary>
+### 3) Post your sesh (Sesh dashboard)
 
 Open: [The Sesh Dashboard](https://sesh.fyi/dashboard/866376531995918346) and fill:
 - Event Title: the name of your game
@@ -67,19 +62,15 @@ Sesh description template (copy/paste):
 **Pace Anticipated:** Once every day or two is standard for PBP; once every 10 minutes as needed is standard for Lives!
 **Selection Date:** Give date when players will be chosen by.
 ```
-</details>
 
-<details class="collapsible" open>
-<summary>4) Game prep (recommended)</summary>
+### 4) Game prep (recommended)
 
-- Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
-- Test maps and enemies in 🤺combat-testing (ask staff to help test if needed)
-- Pre-write non-branching NPC narration and scene descriptions, especially for live games
-- Ask @NPC staff for help if you want NPC involvement
-</details>
+Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
+Test maps and enemies in 🤺combat-testing (ask staff to help test if needed)
+Pre-write non-branching NPC narration and scene descriptions, especially for live games
+Ask @NPC staff for help if you want NPC involvement
 
-<details class="collapsible" open>
-<summary>5) Player selection</summary>
+### 5) Player selection
 
 On or before your selection date, determine who’s eligible:
 - Have they roleplayed or been active recently? High risk to pick players with zero activity
@@ -88,10 +79,8 @@ On or before your selection date, determine who’s eligible:
 - Consider 🎎little-wishes fulfillment opportunities
 
 When ready, ping @Tracker Helper in 🏹game-discussion with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
-</details>
 
-<details class="collapsible" open>
-<summary>6) Announce selection & table roles</summary>
+### 6) Announce selection & table roles
 
 In 📞quest-ooc:
 - Tag the chosen players and your game’s OOC (e.g., 🐡bjursta-ooc)
@@ -100,10 +89,8 @@ In 📞quest-ooc:
 - Name 2 backup players in case of no-shows/cancellations
 
 Follow 🏹quest for no-shows and replacements. If players drop mid-game, see the Rewards section below.
-</details>
 
-<details class="collapsible" open>
-<summary>7) Rewards</summary>
+### 7) Rewards
 
 There are three reward types: XP, gold, and items. Use these Silverymoon resources:
 - [Game Rewards Calculator](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?usp=sharing)
@@ -131,15 +118,12 @@ Varied Item Rewards:
 
 DM Rewards:
 - You may take DM rewards equal to players’ XP and gold, if you wish
-</details>
 
-<details class="collapsible" open>
-<summary>8) DM responsibilities (pace, communication, autonomy)</summary>
+### 8) DM responsibilities (pace, communication, autonomy)
 
 - Pacing & communication: baseline is 1 post/day out of initiative, and 1 post/12 hours in combat; align expectations in your sesh post and at the table, and keep the group accountable; ask @Game Keeper or @Mods if pacing/ghosting issues arise
 - Character autonomy: don’t dictate player character knowledge or actions; check in before assuming familiarity or feelings; address metagaming directly or via staff
 - Game runtime: if a game exceeds the expected timeframe, communicate and adjust; long‑form games should aim for a concrete end date (e.g., “10 weeks”), and shouldn’t pass 60 days beyond that—cut, reorganize, and conclude when needed
-</details>
 
 ---
 
