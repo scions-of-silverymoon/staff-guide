@@ -8,7 +8,8 @@ description: How to plan and run Dream Defence events in Silverymoon.
 A quick-start for running Dream Defence games.
 
 ## Prep (a few days to a week in advance)
--- Tag @Game Keeper in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) with planned date(s), Live or PbP (PbP has a hard cutoff after 2 weeks), tiers of play, and buddy info
+## Prep (a few days to a week in advance)
+- Tag [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) with planned date(s), Live or PbP (PbP has a hard cutoff after 2 weeks), tiers of play, and buddy info
 - After approval, post your sesh(es):
   - Title: “Sleeping Sickness Dream Defence”
   - Channel: [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164) or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701)
@@ -26,7 +27,7 @@ A quick-start for running Dream Defence games.
 - Choose 3–5 players reasonably grouped and pick an appropriate difficulty tier
 -- Run `!encounter <tier>` (e.g., `!encounter 3`) in [🤖dm-bot-spam](https://discord.com/channels/866376531995918346/866473838874329094) to generate monsters, tokens, stat blocks, and maps
 -- You may adjust outcomes, but use Monster Manual monsters only; ask in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555) for a sanity check
-  - Ping @Tracker Helper with your player selection
+  - Ping [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) with your player selection
 
 ## Rewards (Dream Defence)
 - [Use the dedicated sheet](https://docs.google.com/spreadsheets/d/1JubFamIuVg73kIUyeA9Fc9LzsLXI-T6prieBJcB0aE8/edit?usp=sharing) (make a copy)

@@ -19,7 +19,7 @@ Responsibilities
 Tips
 
 - Keep clear notes on player agreements, rewards, and any special rules.
-- Communicate with `@Tracker Helpers` and Game Keepers as needed.
+- Communicate with [@Tracker Helpers]({{ '/guides/helpers.html' | relative_url }}) and [Game Keepers]({{ '/guides/game-keeper.html' | relative_url }}) as needed.
 
 See also: [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
  

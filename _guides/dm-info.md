@@ -8,7 +8,7 @@ description: How to plan, post, run, and reward games in Silverymoon.
 A practical guide for Dungeon Masters: plan your game, get it approved, post the sesh, pick players, run the table, and award rewards. This page consolidates our current process and links to the tools you need.
 
 - Quick links:
-  - Game Reserve: post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping @Game Keeper
+  - Game Reserve: post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
   - Encounter builders: [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
   - Game discussion: [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
   - Rewards discussion/approval: [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)
@@ -25,15 +25,15 @@ Have these basics ready before you post in [📆game-reserve](https://discord.co
 - Desired runtime and accepted PC levels
 
 Helpful notes:
--- Wish DMs: consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with @Wish Keepers and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546).
--- Get feedback from other DMs and @Game Keeper in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
+-- Wish DMs: consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with [@Wish Keepers]({{ '/guides/wish-system.html' | relative_url }}) and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546).
+-- Get feedback from other DMs and [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
 -- For calculators, reward sheets, recommended map hosts, and planning tools, see the Game Resources guide: [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
 
 ### 2) Submit your game (approval)
 
-Post your details to [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping @Game Keeper for approval.
+Post your details to [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) for approval.
 - Please submit no more than 2 weeks in advance.
-- When approved, @Tracker Helper will add it to the tracker (your Game Keeper will ping them).
+-- When approved, [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) will add it to the tracker (your [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) will ping them).
 
 ### 3) Post your sesh (Sesh dashboard)
 
@@ -67,7 +67,7 @@ Sesh description template (copy/paste):
 Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
  Test maps and enemies in [🤺combat-testing](https://discord.com/channels/866376531995918346/866473073828691988) (ask staff to help test if needed)
 Pre-write non-branching NPC narration and scene descriptions, especially for live games
-Ask @NPC staff for help if you want NPC involvement
+Ask [@NPC staff]({{ '/guides/npcs.html' | relative_url }}) for help if you want NPC involvement
 
 ### 5) Player selection
 
@@ -77,7 +77,7 @@ On or before your selection date, determine who’s eligible:
 - Consider party comp for your encounters
 -- Consider [🎎little-wishes](https://discord.com/channels/866376531995918346/1088099833472106547) fulfillment opportunities
 
-When ready, ping @Tracker Helper in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555) with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
+When ready, ping [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555) with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
 
 ### 6) Announce selection & table roles
 
@@ -104,7 +104,7 @@ Basics:
   - Tier 3 (Lvl 7‑10): up to Major Rare, Minor Very Rare
   - Tier 4 (Lvl 11‑14): up to Major Very Rare, Minor Legendary
   - Tier 5 (Lvl 15+): any rarity
--- Ask questions in [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904) and tag @Game Keeper for approval; @Tracker Helper will update the tracker after approval
+-- Ask questions in [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904) and tag [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) for approval; [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) will update the tracker after approval
 
 Early Leavers:
 - If a player must leave early but contributed significantly, use the “Early Leavers” checkbox in the sheet and explain in Reason
@@ -120,7 +120,7 @@ DM Rewards:
 
 ### 8) DM responsibilities (pace, communication, autonomy)
 
-- Pacing & communication: baseline is 1 post/day out of initiative, and 1 post/12 hours in combat; align expectations in your sesh post and at the table, and keep the group accountable; ask @Game Keeper or @Mods if pacing/ghosting issues arise
+- Pacing & communication: baseline is 1 post/day out of initiative, and 1 post/12 hours in combat; align expectations in your sesh post and at the table, and keep the group accountable; ask [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) or [@Mods]({{ '/guides/moderation.html' | relative_url }}) if pacing/ghosting issues arise
 - Character autonomy: don’t dictate player character knowledge or actions; check in before assuming familiarity or feelings; address metagaming directly or via staff
 - Game runtime: if a game exceeds the expected timeframe, communicate and adjust; long‑form games should aim for a concrete end date (e.g., “10 weeks”), and shouldn’t pass 60 days beyond that—cut, reorganize, and conclude when needed
 

@@ -34,7 +34,7 @@ Staff keep the community running. In general:
 
 Support and escalation
 
-- If you are unsure who to contact, ask in the staff channel and ping `@Mods` or `@admin` depending on severity.
+- If you are unsure who to contact, ask in the staff channel and ping [@Mods]({{ '/guides/moderation.html' | relative_url }}) or [@admin]({{ '/guides/moderation.html' | relative_url }}) depending on severity.
 - Escalate repeated or serious issues to Admins/Mods.
 
 This is a living document. If a role page needs more detail, edit the role page or add examples on that page.
