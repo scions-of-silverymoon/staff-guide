@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Game Resources
 description: Tools, calculators, and hosting options for maps, encounters, and rewards.
@@ -8,7 +7,7 @@ description: Tools, calculators, and hosting options for maps, encounters, and r
 
 An on-server reference for Dungeon Masters: encounter types, reward calculators, recommended tools for maps and hosting, and planning aids.
 
-> Where this guide mentions the "flowchart", see the flowchart image: ![Encounter flowchart]({{ '/assets/images/Encounter.webp' | relative_url }})
+> Where this guide mentions the "flowchart", see the flowchart image: ![Encounter flowchart]({{ '/assets/images/encounter-flowchart.png' | relative_url }})
 
 ## Encounters — overview
 
@@ -39,8 +38,6 @@ Combat encounters should be balanced for the expected party level. Use an encoun
 
 - [5e Tools Encounter Builder](https://5e.tools/bestiary.html#aa) — extensive bestiary and encounter tools
 - [D&D Beyond Encounter tools](https://www.dndbeyond.com/my-encounters) — build encounters with accessible statblocks
- - [5e Tools Encounter Builder](https://5e.tools/bestiary.html#aa) — extensive bestiary and encounter tools
- - [D&D Beyond Encounter tools](https://www.dndbeyond.com/my-encounters) — build encounters with accessible statblocks
 
 If you need help balancing an encounter, ask in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
 
@@ -77,4 +74,3 @@ Each hosting path has tradeoffs — see the pros/cons in the DM planning notes a
 ## See also
 - [DMs (role page)]({{ '/guides/dms.html' | relative_url }})
 - [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
-
