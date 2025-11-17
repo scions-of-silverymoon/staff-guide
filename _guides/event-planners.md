@@ -8,7 +8,7 @@ order: 7
 
 Event Planners brainstorm, plan, prepare, and run server-wide events. They create content (topics, descriptions, images, NPCs, rewards) and coordinate staff to run events.
 
-Responsibilities
+## Responsibilities
 
 - Plan event ideas and produce event materials.
 - Coordinate with staff and announce events in appropriate channels.

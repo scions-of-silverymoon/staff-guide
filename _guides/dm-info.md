@@ -129,3 +129,4 @@ DM Rewards:
 ## See also
 - [DMs (role page)]({{ '/guides/dms.html' | relative_url }})
 - [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
+ - [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
