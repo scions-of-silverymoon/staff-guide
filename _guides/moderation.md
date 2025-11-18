@@ -1,23 +1,23 @@
 ---
-title: Moderation & Admins
-description: Moderation and admin role responsibilities and escalation
+title: Moderation
+description: Moderation responsibilities and escalation
 order: 4
 ---
 
-# Moderation & Admins
+# Moderation
 
-Moderators (Mods) enforce server rules and manage most moderation tasks. Admins handle server settings, higher-level decisions, and escalations.
+Moderators (Mods) enforce server rules and manage most moderation tasks. For server settings or major escalations, use the staff channels to alert senior staff or the owner as appropriate.
 
 What Mods do
 
 - Monitor chat and enforce rules.
 - Give warnings, timeouts, and handle quick moderation actions.
-- Escalate repeated or serious incidents to Admins.
+- Escalate repeated or serious incidents to Mods.
 
-What Admins do
+What Mods do
 
-- Manage server settings and major rule decisions.
-- Review escalated moderation cases and decide on permanent actions.
+- Manage server settings and major rule decisions as a group of staff leads.
+- Review escalated moderation cases and decide on necessary actions.
 - Assign roles and ensure staff policies are followed.
 
 If you are unsure who to contact, ping `@Mods` in staff channels for moderation help.
