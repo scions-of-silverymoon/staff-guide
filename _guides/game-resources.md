@@ -23,8 +23,7 @@ Use these categories when estimating encounter difficulty and when preparing sub
 
 Silverymoon maintains shared Google Sheets that help calculate XP, gold, and item eligibility. Use the Calculator tab in a copy of the master sheet to compute rewards automatically and then post the link in [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904) for review.
 
-- [Silverymoon Game Reward Calculator](https://docs.google.com/spreadsheets/d/11-tEu7aInmTZRz0FF18_-BlGuEYplBjzW8V7ZSsuwqA/)
-- [Game Rewards Calculator (copy)](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/)
+- [Game Rewards Calculator](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/)
 - [Silverymoon Magic Items List](https://docs.google.com/spreadsheets/d/1bxM3VotDI2CsWw0VAckQhuMeFp59DMJ1PU3yuPyLBMw/edit)
 - [Silverymoon Tracker](https://docs.google.com/spreadsheets/d/17gTcYmg1QQ3m3YzksXB6L0bVp-uEs4pAf2fp77AUkgU/)
 
