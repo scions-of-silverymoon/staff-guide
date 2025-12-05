@@ -33,6 +33,7 @@ These short points are the baseline for how staff should act. For role-specific 
 - [Staff Roles]({{ '/guides/staff-roles.html' | relative_url }}) - Overview of all staff positions and detailed responsibilities
 - [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }}) - Learn about staff benefits and recognition
 
+
 ---
 
 ## Detailed Guides
@@ -43,6 +44,7 @@ These short points are the baseline for how staff should act. For role-specific 
 
 ### Community Management
 - [Helpers]({{ '/guides/helpers.html' | relative_url }}) - Detailed Helper workflows and procedures
+- [Editing This Guide]({{ '/guides/editing-guide.html' | relative_url }}) - How to make changes to the Staff and User Guides
 
 ---
 
