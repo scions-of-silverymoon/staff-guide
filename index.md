@@ -41,10 +41,8 @@ These short points are the baseline for how staff should act. For role-specific 
 - [DM Guide]({{ '/guides/dm-info.html' | relative_url }}) - Complete guide for Dungeon Masters: planning, posting, running, and rewarding games
 - [Game Resources]({{ '/guides/game-resources.html' | relative_url }}) - Tools and resources for running games
 
-### Specialized Guides
+### Community Management
 - [Helpers]({{ '/guides/helpers.html' | relative_url }}) - Detailed Helper workflows and procedures
-- [Moderation]({{ '/guides/moderation.html' | relative_url }}) - Moderation policies and procedures
-- [Dragonspeaker]({{ '/guides/dragonspeaker.html' | relative_url }}) - Technical staff guide for code and automation
 
 ---
 

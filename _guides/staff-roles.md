@@ -61,9 +61,7 @@ Front-line staff who welcome new players, answer common questions, and guide mem
 
 ### Moderation
 
-**Full guide**: [Moderation Guide]({{ '/guides/moderation.html' | relative_url }})
-
-Moderators enforce server rules and manage moderation tasks.
+Moderators (Mods) enforce server rules and manage moderation tasks. For server settings or major escalations, use the staff channels to alert senior staff or the owner as appropriate.
 
 **Day-to-Day Moderation:**
 - Monitor chat and enforce rules
@@ -74,6 +72,9 @@ Moderators enforce server rules and manage moderation tasks.
 - Manage server settings and major rule decisions as a group of staff leads
 - Review escalated moderation cases and decide on necessary actions
 - Assign roles and ensure staff policies are followed
+
+**Getting Help:**
+- If you are unsure who to contact, ping `@Mods` in staff channels for moderation help
 
 ---
 
@@ -173,29 +174,32 @@ NPC staff provide in-character interactions for players and support roleplay sce
 
 ### Dragonspeaker (Technical Staff)
 
-**Full guide**: [Dragonspeaker Guide]({{ '/guides/dragonspeaker.html' | relative_url }})
-
 Dragonspeakers maintain code and technical systems used by the server. They are the go-to staff for code questions and fixes.
 
 **Responsibilities:**
 - Maintain and fix code used across the server
 - Answer questions about code usage and error messages
 - Propose and implement new code to streamline server tasks (with Mod approval for major changes)
+- Coordinate with other staff to understand technical needs
 
 **Important Notes:**
 - Major code changes should be approved by a Mod before deployment
+
+**Related Resources:**
+- [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }})
 
 ---
 
 ### Wyrmlings (Apprentice Dragonspeakers)
 
-**Full guide**: [Dragonspeaker Guide - Wyrmlings Section]({{ '/guides/dragonspeaker.html' | relative_url }}#wyrmlings-apprentice-dragonspeakers)
-
 Wyrmlings are members who want to learn and assist with the technical side but are not yet full Dragonspeakers. This is an apprenticeship-style role.
 
 **Responsibilities:**
 - Learn by assisting Dragonspeakers with small tasks and fixes
-- Work on supervised, low-risk tasks (bug fixes, small helper scripts, documentation updates)
+- Work on supervised, low-risk tasks:
+  - Bug fixes
+  - Small helper scripts
+  - Documentation updates
 
 **Pathway to Dragonspeaker:**
 - Wyrmlings who demonstrate reliability, understanding of the codebase, and good communication may be invited to take on more responsibility
