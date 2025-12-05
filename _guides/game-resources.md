@@ -64,11 +64,7 @@ Hosting options (recommended order):
 
 Each hosting path has tradeoffs — see the pros/cons in the DM planning notes and choose what fits your game and player base.
 
-## Planning & tools
 
-- Visual calendar (TeamUp): [Silverymoon Schedule — Teamup](https://teamup.com/ksbq3yqrndr6yuy8hi)
-- Sesh for event publishing: [Sesh Dashboard](https://sesh.fyi/dashboard/866376531995918346)
-- Tracker planner and availability: Son of a Tracker (internal planning tool)
 
 ## See also
 - [DMs (role page)]({{ '/guides/dms.html' | relative_url }})
