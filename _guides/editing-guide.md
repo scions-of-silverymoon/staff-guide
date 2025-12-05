@@ -134,6 +134,9 @@ If you run into issues or have questions:
 2. **Check existing pages** - See how formatting is done in other guides
 3. **Ping lxgrf** - This whole thing is his fault so blame him
 
+## Advanced Use
+This IS a github repo, so if you have a preferred IDE or git workflow, feel free to clone the repo and make changes locally. But if that's your preference, you probably don't need this guide.
+
 ---
 
 **Remember:** It's okay to make mistakes - everything can be fixed! The guide is here to help staff and players, so don't hesitate to make improvements.
