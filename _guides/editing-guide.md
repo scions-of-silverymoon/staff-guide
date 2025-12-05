@@ -1,6 +1,6 @@
 ---
 title: Editing This Guide
-permalink: /editing-guide/
+permalink: /guides/editing-guide.html
 ---
 
 # Editing This Guide
