@@ -7,7 +7,7 @@ description: Tools, calculators, and hosting options for maps, encounters, and r
 
 An on-server reference for Dungeon Masters: encounter types, reward calculators, recommended tools for maps and hosting, and planning aids.
 
-![Encounter flowchart](/assets/images/encounter-flowchart.png)
+![Encounter flowchart]({{ '/assets/images/encounter-flowchart.png' | relative_url }})
 
 ## Encounters — overview
 
