@@ -20,3 +20,5 @@ Thumbs.db
 .vscode/
 .idea/
 channel_dumps.txt
+
+raw/
