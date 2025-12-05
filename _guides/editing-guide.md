@@ -108,7 +108,7 @@ Check out [this resource](https://example.com).
 
 **Adding an image:**
 ```markdown
-![Description of image](/assets/images/filename.png)
+![Description of image]({{ '/assets/images/filename.png' | relative_url }})
 ```
 
 **Adding an image from an external URL:**
