@@ -11,9 +11,17 @@ This page explains how to edit the Staff Guide using GitHub's web interface. No 
 
 1. Go to the [staff-guide repository](https://github.com/scions-of-silverymoon/staff-guide) or the [user-guide repository](https://github.com/scions-of-silverymoon/user-guide) on GitHub
 2. Navigate to the file you want to edit - individual pages are in the `_guides` folder
+![Github File View]({{ '/assets/images/editing/editing-guides.png' | relative_url }})
+
 3. Click the pencil icon (✏️) to edit
+![Github Edit Icon]({{ '/assets/images/editing/editing-button.png' | relative_url }})
+
 4. Make your changes and preview them
 5. Commit your changes with a descriptive message
+![Github Commit Section]({{ '/assets/images/editing/editing-commit.png' | relative_url }})
+
+![Github Commit Message]({{ '/assets/images/editing/editing-commit-message.png' | relative_url }})
+
 6. Wait 1-2 minutes for changes to go live
 
 ## Finding the File to Edit
