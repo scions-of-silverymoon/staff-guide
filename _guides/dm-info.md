@@ -1,11 +1,32 @@
 ---
-title: DM Info
-description: How to plan, post, run, and reward games in Silverymoon.
+title: DM Guide
+description: DM role, responsibilities, and how to plan, post, run, and reward games in Silverymoon.
+order: 5
 ---
 
-# DM Info
+# DM Guide
 
-A practical guide for Dungeon Masters: plan your game, get it approved, post the sesh, pick players, run the table, and award rewards. This page consolidates our current process and links to the tools you need.
+DMs run games for the community. They plan, submit, and execute bounties, missions, and other game content.
+
+This guide covers your role as a DM and provides practical steps to plan your game, get it approved, post the sesh, pick players, run the table, and award rewards.
+
+---
+
+## DM Responsibilities
+
+- Prep, plan, and submit bounties or missions following server guidelines
+- Coordinate player selection and scheduling with other staff
+- Run bounties/missions and manage their game channels
+- Add and remove roles for their game channels when appropriate
+- Report server or player issues that arise during games to staff
+
+---
+
+## Best Practices
+
+- Keep clear notes on player agreements, rewards, and any special rules
+- Communicate with [@Tracker Helpers]({{ '/guides/helpers.html' | relative_url }}) and [Game Keepers]({{ '/guides/game-keeper.html' | relative_url }}) as needed
+- Stay organized with your game timeline and player expectations
 
 ---
 
@@ -132,7 +153,9 @@ DM Rewards:
 
 ---
 
-## See also
-- [DMs (role page)]({{ '/guides/dms.html' | relative_url }})
-- [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
- - [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
+## Related Resources
+
+- [Game Resources]({{ '/guides/game-resources.html' | relative_url }}) - Tools, calculators, and encounter building help
+- [Event: Dream Defence]({{ '/guides/events-dream-defence.html' | relative_url }}) - Specific event guide
+- [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) - Your primary contact for game approval
+- [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }}) - DM reward information

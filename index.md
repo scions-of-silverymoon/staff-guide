@@ -30,33 +30,21 @@ These short points are the baseline for how staff should act. For role-specific 
 ## Quick Start Guides
 
 **New to staff?** Start here:
-- [Staff Roles]({{ '/guides/staff-roles.html' | relative_url }}) - Overview of all staff positions and responsibilities
+- [Staff Roles]({{ '/guides/staff-roles.html' | relative_url }}) - Overview of all staff positions and detailed responsibilities
 - [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }}) - Learn about staff benefits and recognition
 
 ---
 
-## Role-Specific Guides
+## Detailed Guides
 
-### Dungeon Masters
-- [DM Info]({{ '/guides/dm-info.html' | relative_url }}) - Essential information for DMs
-- [DMs Guide]({{ '/guides/dms.html' | relative_url }}) - Detailed DM guidelines and best practices
-
-### Moderators & Community Management
-- [Moderation]({{ '/guides/moderation.html' | relative_url }}) - Moderation policies and procedures
-- [Helpers]({{ '/guides/helpers.html' | relative_url }}) - Helper role guidelines
-
-### Specialized Roles
-- [Dragonspeaker]({{ '/guides/dragonspeaker.html' | relative_url }}) - Dragonspeaker responsibilities
-- [Event Planners]({{ '/guides/event-planners.html' | relative_url }}) - Planning and running events
-- [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) - Game management and oversight
-
----
-
-## Game Management Resources
-
+### Game Management
+- [DM Guide]({{ '/guides/dm-info.html' | relative_url }}) - Complete guide for Dungeon Masters: planning, posting, running, and rewarding games
 - [Game Resources]({{ '/guides/game-resources.html' | relative_url }}) - Tools and resources for running games
-- [NPCs]({{ '/guides/npcs.html' | relative_url }}) - NPC guidelines and resources
-- [Wish System]({{ '/guides/wish-system.html' | relative_url }}) - How the wish system works
+
+### Specialized Guides
+- [Helpers]({{ '/guides/helpers.html' | relative_url }}) - Detailed Helper workflows and procedures
+- [Moderation]({{ '/guides/moderation.html' | relative_url }}) - Moderation policies and procedures
+- [Dragonspeaker]({{ '/guides/dragonspeaker.html' | relative_url }}) - Technical staff guide for code and automation
 
 ---
 
