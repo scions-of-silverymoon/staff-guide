@@ -8,29 +8,52 @@ order: 10
 
 Dragonspeakers maintain code and technical systems used by the server. They are the go-to staff for code questions and fixes.
 
+---
+
 ## Responsibilities
 
-- Maintain and fix code used across the server.
-- Answer questions about code usage and error messages.
-- Propose and implement new code to streamline server tasks (with Mod approval for major changes).
+- Maintain and fix code used across the server
+- Answer questions about code usage and error messages
+- Propose and implement new code to streamline server tasks (with Mod approval for major changes)
 
-## Notes
+---
 
-- Major code changes should be approved by a Mod before deployment.
+## Important Notes
 
-# Wyrmlings (apprentice Dragonspeakers)
+- **Major code changes** should be approved by a Mod before deployment
+- Coordinate with other staff to understand technical needs
 
-Wyrmlings are members who want to learn and assist with the technical side but are not yet full Dragonspeakers. This is an apprenticeship-style role:
+---
 
-- Learn by assisting Dragonspeakers with small tasks and fixes.
-- Work on supervised, low-risk tasks (bug fixes, small helper scripts, documentation updates).
+# Wyrmlings (Apprentice Dragonspeakers)
 
+Wyrmlings are members who want to learn and assist with the technical side but are not yet full Dragonspeakers. This is an apprenticeship-style role.
+
+---
+
+## Responsibilities
+
+- Learn by assisting Dragonspeakers with small tasks and fixes
+- Work on supervised, low-risk tasks:
+  - Bug fixes
+  - Small helper scripts
+  - Documentation updates
+
+---
 
 ## Pathway to Dragonspeaker
 
-- Wyrmlings who demonstrate reliability, understanding of the codebase, and good communication may be invited to take on more responsibility.
-- Major responsibility increases require Mod approval.
+- Wyrmlings who demonstrate reliability, understanding of the codebase, and good communication may be invited to take on more responsibility
+- Major responsibility increases require Mod approval
 
-## Contact
+---
 
-- If you are interested in becoming a Wyrmling or have questions about the Dragonspeaker role, contact a current Dragonspeaker or a Mod.
+## Getting Involved
+
+If you are interested in becoming a Wyrmling or have questions about the Dragonspeaker role, contact a current Dragonspeaker or a Mod.
+
+---
+
+## Related Resources
+
+- [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }})

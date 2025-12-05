@@ -7,29 +7,35 @@ description: How to plan, post, run, and reward games in Silverymoon.
 
 A practical guide for Dungeon Masters: plan your game, get it approved, post the sesh, pick players, run the table, and award rewards. This page consolidates our current process and links to the tools you need.
 
-- Quick links:
-  - Game Reserve: post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
-  - Encounter builders: [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
-  - Game discussion: [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
-  - Rewards discussion/approval: [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)
-  - Reward log: [📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)
+---
 
-## 8 simple steps
+## Quick Links
 
-### 1) Establish details (planning)
+- **Game Reserve**: Post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
+- **Encounter builders**: [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
+- **Game discussion**: [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
+- **Rewards discussion/approval**: [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)
+- **Reward log**: [📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)
+
+---
+
+## 8 Simple Steps
+
+### 1) Establish Details (Planning)
 
 Have these basics ready before you post in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476):
+
 - A problem to solve and why PCs hear about it
 - At least one NPC or method to brief/payout the party
 - Encounters (combat, puzzles, traps, or social) sized for the expected party
 - Desired runtime and accepted PC levels
 
-Helpful notes:
--- Wish DMs: consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with [@Wish Keepers]({{ '/guides/wish-system.html' | relative_url }}) and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546).
--- Get feedback from other DMs and [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555).
--- For calculators, reward sheets, recommended map hosts, and planning tools, see the Game Resources guide: [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
+**Helpful notes:**
+- **Wish DMs**: Consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with [@Wish Keepers]({{ '/guides/wish-system.html' | relative_url }}) and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546)
+- Get feedback from other DMs and [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
+- For calculators, reward sheets, recommended map hosts, and planning tools, see the Game Resources guide: [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
 
-### 2) Submit your game (approval)
+### 2) Submit Your Game (Approval)
 
 Post your details to [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) for approval.
 - Please submit no more than 2 weeks in advance.

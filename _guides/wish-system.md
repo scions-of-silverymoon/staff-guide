@@ -8,14 +8,32 @@ order: 8
 
 The Wish System handles special Wish games. Two related roles:
 
-- Wish DMs: volunteer to run Wish games when available.
-- Wish Keepers: manage the wishlist queue and assign staff to run Wish Quests.
+- **Wish DMs**: Volunteer to run Wish games when available
+- **Wish Keepers**: Manage the wishlist queue and assign staff to run Wish Quests
 
-Responsibilities
+---
 
-- Wish DMs: run Wish games, coordinate with players, and deliver requested content when possible.
-- Wish Keepers: gather wish details, maintain the queue, and assign staff to execute wishes.
+## Responsibilities
 
-Notes
+### Wish DMs
+- Run Wish games
+- Coordinate with players
+- Deliver requested content when possible
 
-- Wish Keepers should maintain the wishlist queue in the Tracker and on-server.
+### Wish Keepers
+- Gather wish details
+- Maintain the queue
+- Assign staff to execute wishes
+
+---
+
+## Notes
+
+- Wish Keepers should maintain the wishlist queue in the Tracker and on-server
+
+---
+
+## Related Resources
+
+- [DMs]({{ '/guides/dms.html' | relative_url }})
+- [DM Info]({{ '/guides/dm-info.html' | relative_url }})
