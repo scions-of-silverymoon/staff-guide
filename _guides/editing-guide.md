@@ -130,9 +130,9 @@ Check out [this resource](https://example.com).
 
 If you run into issues or have questions:
 
-1. **Ask in staff channels** - Other staff members can help
-2. **Look at the edit history** - Click "History" on any file to see how others have made similar changes
-3. **Check existing pages** - See how formatting is done in other guides
+1. **Look at the edit history** - Click "History" on any file to see how others have made similar changes
+2. **Check existing pages** - See how formatting is done in other guides
+3. **Ping lxgrf** - This whole thing is his fault so blame him
 
 ---
 
