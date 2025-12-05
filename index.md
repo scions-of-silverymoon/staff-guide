@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Staff Guide - Scions of Silverymoon
 ---
 
 ![Header Image](/assets/images/silverymoon_header.png)
