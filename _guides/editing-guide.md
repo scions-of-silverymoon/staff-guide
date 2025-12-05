@@ -11,23 +11,16 @@ This page explains how to edit the Staff Guide using GitHub's web interface. No 
 
 1. Go to the [staff-guide repository](https://github.com/scions-of-silverymoon/staff-guide) or the [user-guide repository](https://github.com/scions-of-silverymoon/user-guide) on GitHub
 2. Navigate to the file you want to edit - individual pages are in the `_guides` folder
-![Github File View]({{ '/assets/images/editing/editing-guides.png' | relative_url }})
-
 3. Click the pencil icon (✏️) to edit
-![Github Edit Icon]({{ '/assets/images/editing/editing-button.png' | relative_url }})
-
 4. Make your changes and preview them
 5. Commit your changes with a descriptive message
-![Github Commit Section]({{ '/assets/images/editing/editing-commit.png' | relative_url }})
-
-![Github Commit Message]({{ '/assets/images/editing/editing-commit-message.png' | relative_url }})
-
 6. Wait 1-2 minutes for changes to go live
 
 ## Finding the File to Edit
 
 1. Go to [github.com/scions-of-silverymoon/staff-guide](https://github.com/scions-of-silverymoon/staff-guide) or [github.com/scions-of-silverymoon/user-guide](https://github.com/scions-of-silverymoon/user-guide)
 2. Click on the `_guides` folder
+![Github File View]({{ '/assets/images/editing/editing-guides.png' | relative_url }})
 3. Find the file you want to edit:
    - `dm-info.md` for the DM Guide
    - `staff-roles.md` for Staff Roles
@@ -39,6 +32,7 @@ This page explains how to edit the Staff Guide using GitHub's web interface. No 
 
 1. **Click the pencil icon** (✏️) in the top-right corner of the file view
    - This opens the GitHub web editor
+![Github Edit Icon]({{ '/assets/images/editing/editing-button.png' | relative_url }})
 
 2. **Make your changes** in the editor
    - Edit the text as needed
@@ -51,7 +45,8 @@ This page explains how to edit the Staff Guide using GitHub's web interface. No 
 
 ## Committing Your Changes
 
-After editing, scroll down to the "Commit changes" section:
+After editing, hit 'Commit Changes'
+![Github Commit Section]({{ '/assets/images/editing/editing-commit.png' | relative_url }})
 
 1. **Add a commit message** (required)
    - Write a brief description (e.g., "Update DM rewards information")
@@ -64,6 +59,9 @@ After editing, scroll down to the "Commit changes" section:
 3. **Select "Commit directly to the `main` branch"**
 
 4. **Click "Commit changes"**
+
+![Github Commit Message]({{ '/assets/images/editing/editing-commit-message.png' | relative_url }})
+
 
 ## After Committing
 
