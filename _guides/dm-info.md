@@ -19,6 +19,9 @@ This guide covers your role as a DM and provides practical steps to plan your ga
 - Run bounties/missions and manage their game channels
 - Add and remove roles for their game channels when appropriate
 - Report server or player issues that arise during games to staff
+- Don't overdo it! 
+  - DMs may have two games on deck at a time, whether being played or in game reserve. 
+  - We recommend that if you want to run two _at the same time_ then one is a live game or short event.
 
 ---
 
