@@ -31,16 +31,21 @@
     <div id="search-results"></div>
   </div>
 
-  <main id="content" class="main-content" role="main">
-    {{ content }}
+  <div class="page-wrapper">
+    {% include sidebar.html %}
 
-    <footer class="site-footer">
-      <span class="site-footer-owner"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></span>
-    </footer>
-  </main>
+    <main id="content" class="main-content main-area" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></span>
+      </footer>
+    </main>
+  </div>
 
   <!-- Search scripts (Fuse.js + site search logic) -->
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
   <script src="{{ '/assets/search.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
 </body>
 </html>
