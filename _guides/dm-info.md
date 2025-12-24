@@ -36,12 +36,12 @@ When planning a game, you should think about these key points:
 
 This one can be tricky for new users; don't worry, we have instructions to help! Sesh is a discord bot that helps us plan games, which you can start using [here!](https://sesh.fyi/dashboard/866376531995918346)
 
-`Event Title` - Name of your game
-`Start Time` - In your timezone. It will be converted to each players timezone upon publishing.
-`Description` - Include the format below!
-`Channel` - [🎉events](https://discord.com/channels/866376531995918346/962771936528728134), [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164) or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701) depending on the type of game you chose
-`Notifications` - Use @Member (on initial post. Not on game start!). Do NOT ping @Member for Wish quests with pre-selected parties!
-`Image` - Optional, but often fun! You just need a link to an image hosted somewhere.
+- `Event Title` - Name of your game
+- `Start Time` - In your timezone. It will be converted to each players timezone upon publishing.
+- `Description` - Include the format below!
+- `Channel` - [🎉events](https://discord.com/channels/866376531995918346/962771936528728134), [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164) or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701) depending on the type of game you chose
+- `Notifications` - Use @Member (on initial post. Not on game start!). Do NOT ping @Member for Wish quests with pre-selected parties!
+- `Image` - Optional, but often fun! You just need a link to an image hosted somewhere.
 
 Once you've double checked your options, post the session!
 
@@ -75,7 +75,7 @@ A note: If you have need, don't be afraid to hit up our [NPC Staff]({{ '/guides/
 **Selection Tips**
 
 * Have they roleplayed or been active out of character recently?
-> !< It is high risk to select players that have not yet roleplayed on the server. Players without activity have gone AWOL, or left server midgame >!
+> It is high risk to select players that have not yet roleplayed on the server. Players without activity have gone AWOL, or left server midgame.
 - Either use the [Character Tracker](https://docs.google.com/spreadsheets/d/17gTcYmg1QQ3m3YzksXB6L0bVp-uEs4pAf2fp77AUkgU/edit?pli=1&gid=217775375#gid=217775375) or ask for a member of **[Tracker Helper]({{ '/guides/helpers.html' | relative_url }})** to check sign-up history and quest eligibility, as we like to make sure that everyone gets to be in a quest where possible
 > A given character is unable to take part in two Play-By-Post games at once, however with use of the `!savepoint` command, they can participate in a Live game freely, regardless of PBP status
 - Optionally, consider how well the possible party composition work for your encounters, or if a given character could benefit from the story aspect of your quest via their [🎎little-wishes](https://discord.com/channels/866376531995918346/1088099833472106547)
