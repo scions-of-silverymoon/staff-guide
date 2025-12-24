@@ -4,161 +4,155 @@ description: DM role, responsibilities, and how to plan, post, run, and reward g
 order: 5
 ---
 
-# DM Guide
 
-DMs run games for the community. They plan, submit, and execute bounties, missions, and other game content.
+# HOW TO GAME - SILVERYMOON
 
-This guide covers your role as a DM and provides practical steps to plan your game, get it approved, post the sesh, pick players, run the table, and award rewards.
+## 1. GAME PLANNING
 
----
+The biggest step, and all the info that gets put in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476).
+When planning a game, you should think about these key points:
 
-## DM Responsibilities
+- A Problem that needs solving
+- A reason the players would know about it
+- NPC(s) to brief & pay party
+- At least one NPC/somehow to give the lowdown and pay the group
+- Encounters; enemies, puzzles, traps, or social situations to talk/plan out of.
 
-- Prep, plan, and submit bounties or missions following server guidelines
-- Coordinate player selection and scheduling with other staff
-- Run bounties/missions and manage their game channels
-- Add and remove roles for their game channels when appropriate
-- Report server or player issues that arise during games to staff
-- Don't overdo it! 
-  - DMs may have two games on deck at a time, whether being played or in game reserve. 
-  - We recommend that if you want to run two _at the same time_ then one is a live game or short event.
+**Resources**
 
----
+- You can always ask any other DMs, the [Game Keepers]({{ '/guides/game-keeper.html' | relative_url }}) or other members of staff for help in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
+- Advice on building specific encounters can be found in [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
+- Check out our [Silverymoon Game Rewards v2](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?gid=2089122136#gid=2089122136) spreadsheet for advice on what counts as non-combat encounters to assist with planning
 
-## Best Practices
+## 2. SUBMIT YOUR GAME
 
-- Keep clear notes on player agreements, rewards, and any special rules
-- Communicate with [@Tracker Helpers]({{ '/guides/helpers.html' | relative_url }}) and [Game Keepers]({{ '/guides/game-keeper.html' | relative_url }}) as needed
-- Stay organized with your game timeline and player expectations
+- Fill out the form provided in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476)
+- Please ensure you're linking to the relevant stat blocks from [2014.5e.tools](https://2014.5e.tools), as it makes the GK's lives much easier - For example, `[this](<www.google.com>)` for [this](https://youtu.be/uE-1RPDqJAY?si=v5SpkEH5GIkdcR3x)
+- Post in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) (max **2 weeks in advance**)
+- Ping **[Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})** for approval
+- Once approved, **[Tracker Helper]({{ '/guides/helpers.html' | relative_url }})** will add your game details to [our tracker](https://docs.google.com/spreadsheets/d/17gTcYmg1QQ3m3YzksXB6L0bVp-uEs4pAf2fp77AUkgU/edit?pli=1&gid=217775375#gid=217775375)
 
----
+## 3. POST YOUR SESH
 
-## Quick Links
+This one can be tricky for new users; don't worry, we have instructions to help! Sesh is a discord bot that helps us plan games, which you can start using [here!](https://sesh.fyi/dashboard/866376531995918346)
 
-- **Game Reserve**: Post your submissions in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})
-- **Encounter builders**: [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
-- **Game discussion**: [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
-- **Rewards discussion/approval**: [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)
-- **Reward log**: [📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)
+`Event Title` - Name of your game
+`Start Time` - In your timezone. It will be converted to each players timezone upon publishing.
+`Description` - Include the format below!
+`Channel` - [🎉events](https://discord.com/channels/866376531995918346/962771936528728134), [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164) or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701) depending on the type of game you chose
+`Notifications` - Use @Member (on initial post. Not on game start!). Do NOT ping @Member for Wish quests with pre-selected parties!
+`Image` - Optional, but often fun! You just need a link to an image hosted somewhere.
 
----
+Once you've double checked your options, post the session!
 
-## 8 Simple Steps
+Made a mistake? You can edit your post after publishing by selecting the Gear underneath your sesh post, and clicking edit! Easy peasy. NOTE: You cannot edit a Sesh once the game has begun!
 
-### 1) Establish Details (Planning)
-
-Have these basics ready before you post in [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476):
-
-- A problem to solve and why PCs hear about it
-- At least one NPC or method to brief/payout the party
-- Encounters (combat, puzzles, traps, or social) sized for the expected party
-- Desired runtime and accepted PC levels
-
-**Helpful notes:**
-- **Wish DMs**: Consider fulfilling a near-queue wish from [📬wish-vault](https://discord.com/channels/866376531995918346/1088099880318279740); coordinate with [@Wish Keepers]({{ '/guides/wish-system.html' | relative_url }}) and watch [🧨check-the-queue](https://discord.com/channels/866376531995918346/1088099922991120546)
-- Get feedback from other DMs and [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)
-- For calculators, reward sheets, recommended map hosts, and planning tools, see the Game Resources guide: [Game Resources]({{ '/guides/game-resources.html' | relative_url }})
-
-### 2) Submit Your Game (Approval)
-
-Post your details to [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) and ping [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) for approval.
-- Please submit no more than 2 weeks in advance.
--- When approved, [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) will add it to the tracker (your [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) will ping them).
-
-### 3) Post your sesh (Sesh dashboard)
-
-Open: [The Sesh Dashboard](https://sesh.fyi/dashboard/866376531995918346) and fill:
-- Event Title: the name of your game
-- Start Time: in your timezone; Sesh converts for players
--- Channel: [🎉events](https://discord.com/channels/866376531995918346/962771936528728134), [🎪live-games](https://discord.com/channels/866376531995918346/885356489961775164), or [🤺play-by-post-games](https://discord.com/channels/866376531995918346/885162685505863701)
--- Duration: estimated for live games only (PbP only games shouldn’t use this)
-- Mentions: use @Member on the initial post (do NOT @Member on game start); for Wish quests with pre-selected parties, do not ping @Member
-- Description: include the format below
-- Image: optional; provide a hosted image URL
-- RSVP options: leave default (Yes reaction only)
-
-You can edit a Sesh after publishing via the gear icon, until the game begins.
-
-Sesh description template (copy/paste):
-
+You can copy-and-paste the format below into the description of your Sesh for convenience:
 ```
 **Short game hook here**
 **Levels:** level range accepted (i.e. levels 4-6, or all levels, etc)
 **Number of Players:** # of players (i.e. 4-6 players)
-**Game Type:** Live or Traditional play by post; Event, Bounty or Mission. (If live mission, how many sessions)
-**Map**: What VTT/map (Owlbear, Avrae, etc) and if it uses voicechat
+**Map**: Specify if you will be using Avrae Maps, Owlbear Rodeo, or any other system
 **Length Anticipated:** Number of hours or days anticipated. Be generous.
 **Pace Anticipated:** Once every day or two is standard for PBP; once every 10 minutes as needed is standard for Lives!
-**Selection Date:** Give date when players will be chosen by.
+**Selection Date:** Give date when players will be chosen by. (Typically 1-2 days before the start of your game)
 ```
 
-### 4) Game prep (recommended)
+## 4. GAME PREP
 
-Set up maps and tokens ahead of time: [Avrae maps](http://docs.otfbm.com/#/), [Owlbear](https://owlbear.rodeo/how-to), or your VTT of choice
- Test maps and enemies in [🤺combat-testing](https://discord.com/channels/866376531995918346/866473073828691988) (ask staff to help test if needed)
-Pre-write non-branching NPC narration and scene descriptions, especially for live games
-Ask [@NPC staff]({{ '/guides/npcs.html' | relative_url }}) for help if you want NPC involvement
+- Set up your game maps and tokens ahead of time, whether this is in [Avrae maps](http://docs.otfbm.com/#/), [Owlbear Rodeo](https://owlbear.rodeo/how-to), or elsewhere.
+- [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953) will include more details!
+- Test out your avrae maps and/or enemies in [🤺combat-testing](https://discord.com/channels/866376531995918346/866473073828691988). Other staff are often available as testers if needed.
+- Especially for live games, pre-writing NPC/narrator interactions or scene descriptions that aren't conditional on player responses can be very helpful and time saving.
 
-### 5) Player selection
+A note: If you have need, don't be afraid to hit up our [NPC Staff]({{ '/guides/npcs.html' | relative_url }}) to get involved in your game!
 
-On or before your selection date, determine who’s eligible:
-- Have they roleplayed or been active recently? High risk to pick players with zero activity
-- Use the Character Tracker; prefer players who haven’t had recent games
-- Consider party comp for your encounters
--- Consider [🎎little-wishes](https://discord.com/channels/866376531995918346/1088099833472106547) fulfillment opportunities
+## 5. PLAYER SELECTION
 
-When ready, ping [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) in [🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555) with your chosen party for an ‘okay’. They’ll update the tracker if all is well.
+- On or before the date of your game,
+- Ping **[Tracker Helper]({{ '/guides/helpers.html' | relative_url }})** in **[🏹game-discussion](https://discord.com/channels/866376531995918346/922250381197717555)** for approval
 
-### 6) Announce selection & table roles
+**Selection Tips**
 
-In [📞quest-ooc](https://discord.com/channels/866376531995918346/1022191450240327742):
-- Tag the chosen players and your game’s OOC (e.g., 🐡bjursta-ooc)
-- Provide check-in requirements (vsheets, spellbooks, tokens) and a deadline before start
-- Note if you’re opening early for RP before start time
-- Name 2 backup players in case of no-shows/cancellations
+* Have they roleplayed or been active out of character recently?
+> !< It is high risk to select players that have not yet roleplayed on the server. Players without activity have gone AWOL, or left server midgame >!
+- Either use the [Character Tracker](https://docs.google.com/spreadsheets/d/17gTcYmg1QQ3m3YzksXB6L0bVp-uEs4pAf2fp77AUkgU/edit?pli=1&gid=217775375#gid=217775375) or ask for a member of **[Tracker Helper]({{ '/guides/helpers.html' | relative_url }})** to check sign-up history and quest eligibility, as we like to make sure that everyone gets to be in a quest where possible
+> A given character is unable to take part in two Play-By-Post games at once, however with use of the `!savepoint` command, they can participate in a Live game freely, regardless of PBP status
+- Optionally, consider how well the possible party composition work for your encounters, or if a given character could benefit from the story aspect of your quest via their [🎎little-wishes](https://discord.com/channels/866376531995918346/1088099833472106547)
 
-Follow [🏹quest](https://discord.com/channels/866376531995918346/866515129163055126) for no-shows and replacements. If players drop mid-game, see the Rewards section below.
+Many DMs use all this criteria and then some to ensure they are choosing a party suited to mission completion, good OOC teamwork, and more. You are always welcome to ask for help or a second opinion if you're feeling stuck or overwhelmed!
 
-### 7) Rewards
+Remember! Ultimately you are the DM, and if you feel uncomfortable with a specific player at your table, it is entirely within your rights not to bring them - DM a member of the **[Game Keepers]({{ '/guides/game-keeper.html' | relative_url }})** or the **[Moderation]({{ '/guides/moderation.html' | relative_url }})** if further elaboration is required.
 
-There are three reward types: XP, gold, and items. Use these Silverymoon resources:
-- [Game Rewards Calculator](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?usp=sharing)
-- [Magic Item List](https://docs.google.com/spreadsheets/d/1DG6X1goC2eZi6MtI1F_i4Id5myH6bMa2CCCvOzXTpn0/edit#gid=1800875520)
+## 6. ANNOUNCE PARTY
 
-Basics:
-- XP is granted for Combat and Non‑Combat encounters by level; for Combat, use an encounter calculator (see [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)) to determine fight difficulty
-- Use the Rewards Calculator (copy the sheet) to input encounters and monsters; it calculates XP/gold automatically; items reduce gold to balance
--- Reward tiers, by party level at mission completion:
-  - Tier 1 (Lvl 4): up to Common, Minor Uncommon
-  - Tier 2 (Lvl 5‑6): up to Major Uncommon, Minor Rare
-  - Tier 3 (Lvl 7‑10): up to Major Rare, Minor Very Rare
-  - Tier 4 (Lvl 11‑14): up to Major Very Rare, Minor Legendary
-  - Tier 5 (Lvl 15+): any rarity
--- Ask questions in [💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904) and tag [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) for approval; [@Tracker Helper]({{ '/guides/helpers.html' | relative_url }}) will update the tracker after approval
+- Give players your table role
+- Tag selected players in [📞quest-ooc](https://discord.com/channels/866376531995918346/1022191450240327742)
+> We recommend tagging your specific table's OOC channel (eg. #bjursta-ooc) so players know where to go, when you expect them to 'check in' by, and if the RP channel is open for introduction posts (quite common, especially for Live games, however not a requirement!)
 
-Early Leavers:
-- If a player must leave early but contributed significantly, use the “Early Leavers” checkbox in the sheet and explain in Reason
-- Mark which encounters each party member attended; Early Leavers don’t receive item rewards but can receive gold and XP for participated encounters
-- Adjust encounter difficulty going forward if needed; ask Game Keepers/Mods for help
+## 7. REWARDS
 
-Varied Item Rewards:
-- For higher-level tables, you may offer options across different rarity tiers (per the sheet’s gold equivalence)
-- Offer the same tiers to all players; remind them they can replace an existing item in that tier if duplicates aren’t allowed
+There are three types of rewards to give: XP, gold and items. You'll use two Silverymoon-specific resources to figure them out - [Silverymoon Game Rewards v2](https://docs.google.com/spreadsheets/d/1qQuZqQSWkRD0ZtGRdJnBLADZQYHy8fLDN7rzlvypOI4/edit?usp=sharing) and the [Magic Item List](https://docs.google.com/spreadsheets/d/1DG6X1goC2eZi6MtI1F_i4Id5myH6bMa2CCCvOzXTpn0/edit#gid=1800875520)
 
-DM Rewards:
-- You may take DM rewards equal to players’ XP and gold, if you wish
+### XP and GP
 
-### 8) DM responsibilities (pace, communication, autonomy)
+- Award for combat, non-combat and RP encounters (automatically calculated in the rewards sheet)
+- Combat XP is based on encounter difficulty, more details in [🏁encounters-n-maps](https://discord.com/channels/866376531995918346/866467862540582953)
 
-- Pacing & communication: baseline is 1 post/day out of initiative, and 1 post/12 hours in combat; align expectations in your sesh post and at the table, and keep the group accountable; ask [@Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) or [@Mods]({{ '/guides/moderation.html' | relative_url }}) if pacing/ghosting issues arise
-- Character autonomy: don’t dictate player character knowledge or actions; check in before assuming familiarity or feelings; address metagaming directly or via staff
-- Game runtime: if a game exceeds the expected timeframe, communicate and adjust; long‑form games should aim for a concrete end date (e.g., “10 weeks”), and shouldn’t pass 60 days beyond that—cut, reorganize, and conclude when needed
+### Magic Items
+
+- Magic Items can be distributed based on three factors - The lowest level character in the quest, the quest's overall difficulty, and the number of encounters within the quest
+- Details on how these are distributed are also found within the rewards sheet
+- The rarity of these items can reflect **the level they reach upon receiving their XP rewards**, not the level that they started the quest
+
+Ping **[Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})** in **[💎rewards-discussion](https://discord.com/channels/866376531995918346/969652807940603904)** for discussion and approval
+**[Tracker Helper]({{ '/guides/helpers.html' | relative_url }})** will then log your rewards on our tracker
+
+### EARLY LEAVERS
+
+Players may need to leave a game for a variety of reasons, including but not limited to real-life reasons. While our rules do state that departing without a reward is common, if a player departs with good cause after contributing meaningfully, an alternative reward method may be used via the Game Rewards sheet.
+
+Check the "Early Leavers" box, explain the reason, and complete the sheet as usual. Mark only the encounters the player participated in, leaving others unchecked. Examples of this will also be found on the rewards sheet.
+
+Early Leavers may receive gold and XP, but no item rewards. Their in-character departure should be discussed with the DM and handled as smoothly as possible, with DMs providing a reasonable narrative explanation when needed.
+
+You have likely planned your combat and challenges around a specific number of players, and in the event of an Early Leaver, it is reasonable and expected to re-evaluate the challenges to accommodate this - be sure to note any changes from your [📆game-reserve](https://discord.com/channels/866376531995918346/866474215889043476) in [📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)
+
+- Use **Early Leavers** checkbox in rewards sheet
+- Gold & XP for that player only (no items)
+- Adjust encounters if needed
+- Log changes in **[📈game-reward-log](https://discord.com/channels/866376531995918346/866473211705032704)**
+
+### VARIED ITEM REWARDS
+
+Usually we reward the highest rarity that your party qualifies. It is up to the DM and we do not mean to change it or take this autonomy from DMs. We do, however, offer an alternative - especially for higher-level tables - If characters already have preferred high-rarity items or lack lower-rarity items only obtainable through games, DMs may offer item rewards of varying rarities!
+
+Using the Game Rewards Calculator, verify gold rewards for each rarity tier, then offer all characters the same rarity options. For characters who already possess an item in that tier and cannot have a second currently, remind them that they can replace it, with no additional gold reward or change.
+
+## 8. DM RESPONSIBILITIES
+
+DMs are responsible for setting and maintaining game pace, including inserting pauses when needed. Large pacing differences between players, excessive back-and-forth between a few characters, or games running far longer than expected can be frustrating. DMs should encourage balanced engagement, respect real-life constraints, and communicate clearly when adjustments are needed. Only the DM can effectively slow or advance the game's progression.
+
+DMs are strongly encouraged to state expected pacing upfront in the session post and again at the table, allowing players to discuss and agree on a reasonable compromise. While unpredictability happens, it should be the exception, not the norm.
+
+### Pacing and Communication:
+In [🏹quest](https://discord.com/channels/866376531995918346/866515129163055126), recommended pacing is at least 1 post per day outside initiative and 1 post every 12 hours in combat. This requires shared accountability between DMs and players. If pacing needs adjustment, it must be discussed and agreed upon as a group. If issues arise - such as ghosting or difficulty addressing concerns - please contact **[Game Keeper]({{ '/guides/game-keeper.html' | relative_url }})** or **[Moderation]({{ '/guides/moderation.html' | relative_url }})** for support.
+
+### Character Autonomy:
+DMs should avoid dictating player actions, knowledge, or perceptions without consent. Check in with players before stating that their characters acted or know something, and be mindful not to define how characters feel or view the world. If metagaming occurs, address it directly or reach out to staff for assistance.
+
+### Game Runtime:
+**@DM**s should monitor when a game begins to drag and speak up to move it forward, asking for help if needed. Biweekly check-ins will resume to support ongoing games. Games expected to last 2+ months should have a clear projected end date (e.g., "10 weeks," "3 months") and should not exceed 60 days past that estimate. If they do, encounters may need to be cut or reorganized to bring the game to a satisfying conclusion.
 
 ---
+
+## Special Game Types
+
+- [Encounterer Games (Dream Defence)]({{ '/guides/events-dream-defence.html' | relative_url }})
 
 ## Related Resources
 
 - [Game Resources]({{ '/guides/game-resources.html' | relative_url }}) - Tools, calculators, and encounter building help
-- [Event: Dream Defence]({{ '/guides/events-dream-defence.html' | relative_url }}) - Specific event guide
 - [Game Keeper]({{ '/guides/game-keeper.html' | relative_url }}) - Your primary contact for game approval
 - [Staff Rewards]({{ '/guides/staff-rewards.html' | relative_url }}) - DM reward information
+
